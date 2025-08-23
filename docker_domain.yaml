@@ -1,0 +1,4 @@
+payload:
+  - '+.docker.com'
+  - '+.docker.io'
+  - '+.docker.fnnas.com'
